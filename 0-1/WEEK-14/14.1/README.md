@@ -1,3 +1,17 @@
+## 📌 Week 14: Next.js
+
+<img src="https://skillicons.dev/icons?i=nextjs" height="30" />
+
+**Week 14.1** - Intro to Next.js
+- 🔗 [Slide](https://projects.100xdevs.com/tracks/nextjs-1/next-1)
+
+**Week 14.2** - Backend in Next.js
+- 🔗 [Slide](https://projects.100xdevs.com/tracks/Next-Auth/NWamq4VE2GutuJvdGQOr)
+
+**Week 14.3** - Next.js Part 2
+
+---
+
 # NextJS (Client Side) [Notes](https://projects.100xdevs.com/tracks/nextjs-1/next-1)
 
 Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
