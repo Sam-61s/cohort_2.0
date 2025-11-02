@@ -1,3 +1,34 @@
+## 📌 Week 2: Node, HTTP, Express, Bash Terminal
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="30" />
+
+**Week 2.1** - Promises and async JS revision 
+- 📄 [Slides Pdf](https://github.com/saim-61s/cohort_2.0/blob/main/0-1/WEEK-02/Week%202.1%20-%20Callbacks%2C%20Async%20functions%2C%20Promises%2C%20JS%20functions%20(map%2C%20filter)%2C%20Assignment.pdf)
+
+**Week 2.2** - Express & Node.js
+- 📄 [Slides Pdf](https://github.com/saim-61s/cohort_2.0/blob/main/0-1/WEEK-02/Week%202.2%20-%20Node.js%20runtime%2C%20HTTP.pdf)
+- 🔗 [Slide](https://projects.100xdevs.com/tracks/js-runtim/Node-js-Runtime-1)
+
+**Week 2.3** - Bash and Terminal  
+**Week 2.4** - Advanced Bash  
+**Week 2.5** - Express From Basics  
+**Week 2.6** - Map, Filter, and Arrow Functions  
+**Week 2.7** - Git and GitHub
+
+**Code & Notes**
+- 📁 **[CODE](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-02/code)**
+- 📝 **[My NOTES](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-02)**
+
+**Assignments**
+- 📦 [Async](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-02/assignments/01-async-js)
+  - 🟢 [Easy](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-02/assignments/01-async-js/easy)
+  - 🟡 [Medium](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-02/assignments/01-async-js/medium)
+  - 🔴 [Hard - Promises](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-02/assignments/01-async-js/hard%20(promises))
+- 🚀 [Nodejs](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-02/assignments/02-nodejs)
+
+---
+
+
 # Content
 - Some Async Concepts
 -  [Promises Deep](#Promises)

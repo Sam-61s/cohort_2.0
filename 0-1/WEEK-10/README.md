@@ -1,3 +1,19 @@
+## 📌 Week 10: SQL Databases, ORM
+
+<img src="https://skillicons.dev/icons?i=postgresql,prisma" height="30" />
+
+**Week 10.1** - PostgreSQL
+- 📁 [Code + Notes](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-10/postgres)
+- 🔗 [Slide](https://projects.100xdevs.com/tracks/hor-ver-scaling/Horizontal-and-vertical-scaling--Indexes-in-DBs-2)
+
+**Week 10.2** - Prisma ORM
+- 📁 [Code + Notes](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-10/prismaORM)
+- 🔗 [Slide](https://projects.100xdevs.com/tracks/gZf9uBBNSbBR7UCqyyqT/prisma-1)
+
+**Complete Notes**
+- 📝 **[NOTES](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-10)**
+
+---
 
 # Databases
 Databases are essentially organized collections of structured data. They allow for efficient storage, retrieval, and manipulation of information on computer systems. 
