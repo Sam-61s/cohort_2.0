@@ -229,7 +229,7 @@
 **Week 9.1** - Custom Hooks
 - 🔗 [Slide](https://projects.100xdevs.com/tracks/3Vhp7rCJUVjnvFuPxZSZ/Custom-Hooks-1)
 
-**Week 9.2** - TypeScript
+**Week 9.2** - TypeScript ✅ 
 - 📁 [Code + NOTES](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-09/9-1-typescript)
 - 🔗 [Slide](https://projects.100xdevs.com/tracks/6SbPPXGkG8QKFOTW9BmL/ts-2)
 
@@ -252,7 +252,7 @@
 
 ---
 
-## 📌 Week 11: Deploy Applications
+## 📌 Week 11: Deploy Applications ✅ 
 
 <img src="https://skillicons.dev/icons?i=cloudflare,aws" height="30" />
 
@@ -266,7 +266,7 @@
 
 ---
 
-## 📌 Week 12: AWS, Docker, SQL Joins
+## 📌 Week 12: AWS, Docker, SQL Joins 
 
 <img src="https://skillicons.dev/icons?i=aws,docker,typescript" height="30" />
 
@@ -277,7 +277,10 @@
 - 📁 [Code](https://github.com/saim-61s/cohort_2.0/tree/main/0-1/WEEK-12/typescript-api)
 - 🔗 [Slide](https://projects.100xdevs.com/tracks/ts-hard/ts-hard-1)
 
-**Week 12.3** - Actionable Docker
+**Week 12.3.1** - Create Own Packages
+- 📁 [Code](https://github.com/Sam-61s/cohort_2.0/tree/main/0-1/WEEK-12/week-12.3.1)
+
+**Week 12.3.2** - Actionable Docker
 - 🔗 [Slide](https://projects.100xdevs.com/tracks/docker-easy/docker-1)
 
 **Week 12.4** - SQL Relationships and Joins
@@ -288,6 +291,7 @@
 **Week 12.6** - Connection Pooling in Serverless Environments
 
 ---
+
 
 ## 📌 Week 13: Blog Project
 
